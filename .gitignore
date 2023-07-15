@@ -1,4 +1,4 @@
-venv/
+.orm_migrations
 __pycache__/
 .idea/
 .vscode/
